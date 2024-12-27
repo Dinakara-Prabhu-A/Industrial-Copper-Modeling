@@ -11,7 +11,6 @@ from sklearn.linear_model import LinearRegression,Ridge,Lasso
 from sklearn.metrics import r2_score
 from sklearn.neighbors import KNeighborsRegressor
 from sklearn.tree import DecisionTreeRegressor
-from xgboost import XGBRegressor
 from sklearn.metrics import mean_squared_error, mean_absolute_error
 
 from src.exception import CustomException

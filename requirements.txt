@@ -3,8 +3,6 @@ numpy
 matplotlib
 seaborn
 streamlit
-mlflow
-xgboost
 scikit-learn
 openpyxl
 streamlit-option-menu

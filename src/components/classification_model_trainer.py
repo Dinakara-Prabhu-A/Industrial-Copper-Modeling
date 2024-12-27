@@ -11,7 +11,6 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_score
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.tree import DecisionTreeClassifier
-from xgboost import XGBClassifier
 
 from src.exception import CustomException
 from src.logger import logging
