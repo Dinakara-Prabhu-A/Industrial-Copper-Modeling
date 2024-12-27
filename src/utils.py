@@ -13,7 +13,7 @@ from sklearn.metrics import (
     mean_absolute_error,
     mean_squared_error
 )
-import mlflow
+
 import warnings
 from src.exception import CustomException
 from src.logger import logging
