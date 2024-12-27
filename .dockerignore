@@ -1,0 +1,15 @@
+# Ignore Python cache files
+__pycache__
+*.pyc
+*.pyo
+
+# Ignore Git-related files
+.git
+.gitignore
+
+# Ignore local development environment files
+.env
+
+# Ignore large data files or logs that are not needed for building
+*.log
+data/
